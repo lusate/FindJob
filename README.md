@@ -1,3 +1,3 @@
 # 📖 채용 사이트
-JSP -> LastTest2
+LastTest2
 이클립스에서 톰캣 설정하고 JSP를 사용하여 프로젝트 제작
